@@ -2,6 +2,11 @@
 
 A Java-based Space Invaders-style course project where I practiced object-oriented programming, debugging, collision detection, UI handling, and gameplay feature development.
 
+<img width="662" height="608" alt="JetSelectionScreenshot" src="https://github.com/user-attachments/assets/254f4475-dca9-4dc2-b52d-8ae2a83e2226" />
+
+<img width="724" height="654" alt="BossScreenshotM" src="https://github.com/user-attachments/assets/e0145b2d-3ab3-4a51-9096-1dc30a45edf7" />
+
+
 ## Overview
 
 This project was built as part of a school course and extended with additional gameplay features and improvements. My work focused on modifying and improving game behavior, organizing logic within an existing codebase, and using object-oriented programming principles to support multiple gameplay systems.
