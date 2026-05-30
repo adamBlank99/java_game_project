@@ -2,7 +2,7 @@
 
 A Java-based Space Invaders-style course project where I practiced object-oriented programming, debugging, collision detection, UI handling, and gameplay feature development.
 
-<img width="374" height="331<img width="745" height="681" alt="Screenshot 2026-05-30 at 5 19 27 AM" src="https://github.com/user-attachments/assets/f61a9365-4f82-48aa-81ac-e33be6707aef" />
+<img width="745" height="681" alt="Screenshot 2026-05-30 at 5 19 27 AM" src="https://github.com/user-attachments/assets/f61a9365-4f82-48aa-81ac-e33be6707aef" />
 " alt="Screenshot 2026-05-30 at 5 17 26 AM" src="https://github.com/user-attachments/assets/9677888c-3747-425e-b2e6-337dafe5aa55" />
 
 
