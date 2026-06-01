@@ -4,11 +4,18 @@ This started as base code from a TXST course project as a Java Space Invader Sty
 
 ## Start
 
-<img width="1502" height="1400" alt="startingGameplaySpaceInvaders" src="https://github.com/user-attachments/assets/b0ee00cd-a33a-44b6-bde2-920a06870b00" />
+
+
+<img width="1280" height="1192" alt="startingGameplaySpaceInvaders" src="https://github.com/user-attachments/assets/f3edc2fb-f50b-4a2c-b192-1d01840976c9" />
+
+
+
+
+
 
 ## Gameplay
 
-<img width="640" height="596" alt="spaceInvadersDemoBest" src="https://github.com/user-attachments/assets/937434f2-8a8f-422a-9d45-54c3ea69504f" />
+
 
 
 
