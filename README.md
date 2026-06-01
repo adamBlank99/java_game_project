@@ -4,20 +4,12 @@ This started as base code from a TXST course project as a Java Space Invader Sty
 
 ## Start
 
-
-
-<img width="1280" height="1192" alt="startingGameplaySpaceInvaders" src="https://github.com/user-attachments/assets/f3edc2fb-f50b-4a2c-b192-1d01840976c9" />
-
-
-
-
+startingGameplaySpaceInvaders
 
 
 ## Gameplay
 
-
-
-
+https://github.com/user-attachments/assets/1843a540-4cb3-445b-8c77-3abe80e732dc
 
 ## Overview
 
